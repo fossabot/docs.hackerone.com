@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/Hacker0x01/docs.hackerone.com.svg?branch=master)](https://travis-ci.com/Hacker0x01/docs.hackerone.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzech564%2Fdocs.hackerone.com.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzech564%2Fdocs.hackerone.com?ref=badge_shield)
 
 # docs.hackerone.com
 
@@ -66,3 +67,7 @@ The documentation is divided into several sections with a different tone and pur
 
 - `yarn clean` to clear the local gatsby cache
 - `yarn reset` to clear the local node.js cache
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzech564%2Fdocs.hackerone.com.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzech564%2Fdocs.hackerone.com?ref=badge_large)
